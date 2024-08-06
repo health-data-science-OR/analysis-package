@@ -1,5 +1,5 @@
 """
-test_package
+analysis_package
 
 Part of a repo containing boilerplate code for publishing 
 on PyPi.
